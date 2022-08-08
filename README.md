@@ -17,8 +17,8 @@
 Buatlah sebuah *private repository* baru dengan format penamaan **student_name-netlify_assignment** (contoh: dito_bagus-netlify_assignment). Lalu _copy_/salin file pada assignment sebelumnya ke folder repository tersebut.
 
 ## Directions
-Setelah kalian mampu membuat halaman static website kalian sendiri, sekarang saatnya kalaian untuk publish/deploy website kalian ke Netlify. Pada assignment kali ini kalian **WAJIB** melakukan deployment menggunakan Git, selain itu kalian juga diminta untuk mengganti subdoamin yang kalian secara default diberikan oleh netlify menggunakan nama kalian. Contoh:
-- Default subdoamin
+Setelah kalian mampu membuat halaman static website kalian sendiri, sekarang saatnya kalian untuk publish/deploy website kalian ke Netlify. Pada assignment kali ini kalian **WAJIB** melakukan deployment menggunakan Git, selain itu kalian juga diminta untuk mengganti subdoamin yang kalian secara default diberikan oleh Netlify menggunakan nama kalian. Contoh:
+- Default subdomain
   ```text
   remarkable-swan-a8d66b.netlify.app
   ```
